@@ -9,9 +9,11 @@ If you fail, you can choose to reset or quit.
 - Python 3.8+
 - colorama
 
+## Credits
+Escape Room 3000 was fully designed and developed by Likith Kumar Kandukuri using Python and Colorama.
+
 ## Installation
 ```bash
 pip install colorama
 
-## Credits
-Escape Room 3000 was fully designed and developed by Likith Kumar Kandukuri using Python and Colorama.
+
